@@ -107,7 +107,7 @@ if __name__ == "__main__":
 > $$
 
 ---
-[Brilonx analyzer](https://https://github.com/machenderson/brilionxa)：This is a simple but powerful script that can evaluate asset performance based on historical return data.
+[Brilionx analyzer](https://https://github.com/machenderson/brilionxa)：This is a simple but powerful script that can evaluate asset performance based on historical return data.
 
 [Brilionx FingerTrap](https://https://github.com/machenderson/brilionxf)：This tool identifies potential fat-finger incidents by detecting price deviations that significantly exceed typical market volatility within a narrow timeframe.
 
